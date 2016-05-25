@@ -40,7 +40,6 @@ vector<Point> A;
 
 void printArray()
 {
-	cout << showpos;
 	for(int i = 0; i < (int)A.size(); i++)
 	{
 		//cout << A[i].r << "(" << A[i].x << ", " << A[i].y << ")" << endl;
